@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+~$*
+.DS_Store
+
+# Raw logger and station files are not published: keep them local.
+data/GL860/
+data/COAI/
+report/samples/
+*.pdf

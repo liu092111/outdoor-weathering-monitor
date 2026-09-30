@@ -1,0 +1,27 @@
+# Weather Data Analysis System Dependencies
+# 天氣數據分析系統依賴包
+
+# Core data processing
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# PDF generation
+reportlab>=3.6.0
+
+# Excel file support
+openpyxl>=3.0.0
+
+# Optional: Enhanced Excel support
+xlrd>=2.0.0
+
+# Optional: Performance improvements
+numba>=0.56.0
+
+# Development dependencies (optional)
+# pytest>=6.0.0
+# black>=21.0.0
+# flake8>=3.9.0
