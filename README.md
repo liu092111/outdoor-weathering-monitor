@@ -4,7 +4,7 @@
 
 Data tooling for an outdoor weathering test site. It imports GL860 logger and CWA (COAI) station data into MySQL, and it turns the readings into an Excel dashboard and a PDF report.
 
-<img src="docs/dashboard-demo.gif" width="900" alt="Excel dashboard: picking July, then July to September, then December and January across the year boundary, then every month">
+<img src="docs/dashboard-demo.gif" width="760" alt="Excel dashboard: picking July, then July to September, then December and January across the year boundary, then every month">
 
 </div>
 
