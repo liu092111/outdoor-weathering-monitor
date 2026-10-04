@@ -4,6 +4,8 @@
 
 Data tooling for an outdoor weathering test site. It imports GL860 logger and CWA (COAI) station data into MySQL, and it turns the readings into an Excel dashboard and a PDF report.
 
+[Project page on floraliu.dev](https://floraliu.dev/work/outdoor-weathering)
+
 <img src="docs/dashboard-demo.gif" width="560" alt="Excel dashboard: picking July, then July to September, then December and January across the year boundary, then every month">
 
 </div>
